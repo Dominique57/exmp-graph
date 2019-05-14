@@ -1,4 +1,4 @@
-# MicroProject 1
+# EXPM graph
 # Python README
 - To execute the Python script you need the following
 -- Python3 or greater
